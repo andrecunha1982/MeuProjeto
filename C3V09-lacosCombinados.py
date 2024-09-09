@@ -51,4 +51,4 @@ for voltas in range(1,11,1):
     else:
         reprov = reprov + 1
 
-print(f"\nAprovados: {aprov}\nReprovados: {reprov}")
+print(f"\nQuantidade de Aprovados: {aprov}\nQuantidade de Reprovados: {reprov}")
